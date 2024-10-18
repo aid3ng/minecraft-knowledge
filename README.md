@@ -72,6 +72,8 @@
 
 ## The best way to kill a creeper
 
+First you need to get a stone axe. Then, find a creeper. You want to run up to it, jump, and hit it while you're coming down on your jump. Then run away while it's flickering so it stops. Then you will repeat that until it's killed.
+
 ## How to travel to the world border
 
 ## How to break bedrock
